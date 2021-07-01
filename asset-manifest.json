@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/maze-dijkstra/static/css/main.c3788f55.chunk.css",
+    "main.js": "/maze-dijkstra/static/js/main.e6f624aa.chunk.js",
+    "main.js.map": "/maze-dijkstra/static/js/main.e6f624aa.chunk.js.map",
+    "runtime-main.js": "/maze-dijkstra/static/js/runtime-main.0eb1cefe.js",
+    "runtime-main.js.map": "/maze-dijkstra/static/js/runtime-main.0eb1cefe.js.map",
+    "static/js/2.b06a8214.chunk.js": "/maze-dijkstra/static/js/2.b06a8214.chunk.js",
+    "static/js/2.b06a8214.chunk.js.map": "/maze-dijkstra/static/js/2.b06a8214.chunk.js.map",
+    "static/js/3.eca2802d.chunk.js": "/maze-dijkstra/static/js/3.eca2802d.chunk.js",
+    "static/js/3.eca2802d.chunk.js.map": "/maze-dijkstra/static/js/3.eca2802d.chunk.js.map",
+    "static/js/4.bff43e1a.chunk.js": "/maze-dijkstra/static/js/4.bff43e1a.chunk.js",
+    "static/js/4.bff43e1a.chunk.js.map": "/maze-dijkstra/static/js/4.bff43e1a.chunk.js.map",
+    "static/js/5.1560d92f.chunk.js": "/maze-dijkstra/static/js/5.1560d92f.chunk.js",
+    "static/js/5.1560d92f.chunk.js.map": "/maze-dijkstra/static/js/5.1560d92f.chunk.js.map",
+    "index.html": "/maze-dijkstra/index.html",
+    "static/css/main.c3788f55.chunk.css.map": "/maze-dijkstra/static/css/main.c3788f55.chunk.css.map",
+    "static/js/2.b06a8214.chunk.js.LICENSE.txt": "/maze-dijkstra/static/js/2.b06a8214.chunk.js.LICENSE.txt",
+    "static/js/3.eca2802d.chunk.js.LICENSE.txt": "/maze-dijkstra/static/js/3.eca2802d.chunk.js.LICENSE.txt",
+    "static/js/4.bff43e1a.chunk.js.LICENSE.txt": "/maze-dijkstra/static/js/4.bff43e1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0eb1cefe.js",
+    "static/js/3.eca2802d.chunk.js",
+    "static/css/main.c3788f55.chunk.css",
+    "static/js/main.e6f624aa.chunk.js"
+  ]
+}
