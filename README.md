@@ -1,5 +1,5 @@
 # This maze Generator is in development Process.
-## [Click to view Demo](https://suhaan-bhandary.github.io/Maze-Generator-DFS/)
+## [Click to view Demo](https://suhaan-bhandary.github.io/maze-dijkstra/)
 
 # Getting Started with Create React App
 
