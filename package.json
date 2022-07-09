@@ -1,7 +1,7 @@
 {
   "name": "maze-generator-with-dfs",
 
-  "homepage": "http://Suhaan-Bhandary.github.io/maze-dijkstra",
+  "homepage": "https://suhaan-bhandary.github.io/Maze-DFS",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
